@@ -21,8 +21,8 @@
   	</div>
 		
  	<div class="social-section col-md-3 col-sm-3 col-xs-3">
-      <a href="https://twitter.com/creativenaqsh" target="_blank" class="twitter"><i class="fab fa-twitter"></i></a>  
-      <a href="https://www.instagram.com/creativenaqsh/" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a href="#" target="_blank" class="twitter"><i class="fab fa-twitter"></i></a>  
+      <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
       <a href="/" target="_blank"><i class="fas fa-envelope"></i></a>
     </div>
 
@@ -31,10 +31,12 @@
 </nav>
 <!-- End Responsive navbar -->
 <!-- Start about-us -->
- <div class="container">
+<div class="container">
 		<div class="row">
-           <p class="col-md-12 col-sm-12 col-xs-12 about-us" id="about-us">خدماتنا في مجال التصميم الداخلي والخارجي تقدم من قبل خبراء ومهندسين متخصصين في <br>أعمال الديكور وهندسة الإضاءة وعلم الألوان الذي يتيح لعملائنا خيارات كثيرة لتنفيذ رغباتهم على أرض الواقع<br> بمعايير هندسية وعصرية متطورة</p>
-       </div><!-- End row -->
+        <p class="col-md-12 col-sm-12 col-xs-12 about-us" id="about-us">خدماتنا في مجال التصميم الداخلي والخارجي تقدم من قبل خبراء ومهندسين متخصصين 
+			في <br>أعمال الديكور وهندسة الإضاءة وعلم الألوان الذي يتيح لعملائنا خيارات كثيرة لتنفيذ رغباتهم على أرض الواقع<br>
+			بمعايير هندسية وعصرية متطورة</p>
+</div><!-- End row -->
 	</div><!-- End container -->
 <!-- End about-us -->
 </div><!-- End header -->
@@ -105,7 +107,7 @@
 <!-- Start our-services -->
 <div class="cat-services col-md-12 col-sm-12 col-xs-12" id="our-services">
 <div class="container">
-	<img class=" img-fluid" src="http://localhost:8080/creativenaqsh/wp-content/uploads/Web-1920-–-1.png">
+	<img class=" img-fluid" src="./img/Web 1920 – 1.png">
 
 </div><!-- End container -->
 </div><!-- End cat-services -->
@@ -207,38 +209,38 @@
         <div class="row">
 			<div class="clients-info col-md-12 col-sm-12 col-xs-12">
             <div class="clients-img col-md-3 col-sm-3 col-xs-3">
-              	<img  src="http://localhost:8080/creativenaqsh/wp-content/uploads/Artboard-–-1.png" class="hilton img-fluid "  alt="">
+              	<img  src="./img/clinents/Artboard – 1.png" class="hilton img-fluid "  alt="">
             </div>
             
 			<div class="clients-img col-md-3 col-sm-3 col-xs-3">
-				<img  src="http://localhost:8080/creativenaqsh/wp-content/uploads/Artboard-–-3.png" class="kinan img-fluid"  alt="">
+				<img  src="./img/clinents/Artboard – 2.png" class="kinan img-fluid"  alt="">
             </div>
             
             <div class="clients-img col-md-3 col-sm-3 col-xs-3">
-            	<img  src="http://localhost:8080/creativenaqsh/wp-content/uploads/Artboard-–-2.png" class="kau img-fluid "  alt="">
+            	<img  src="./img/clinents/Artboard – 3.png" class="kau img-fluid "  alt="">
             </div>
           
 			<div class="clients-img col-md-3 col-sm-3 col-xs-3">
-              	<img  src="http://localhost:8080/creativenaqsh/wp-content/uploads/Artboard-–-1.png" class="hilton img-fluid "  alt="">
+              	<img  src="./img/clinents/Artboard – 1.png" class="hilton img-fluid "  alt="">
             </div>
 			</div><!-- End client-info-->
 			
 			
 			<div class="clients-info col-md-12 col-sm-12 col-xs-12">
             <div class="clients-img col-md-3 col-sm-3 col-xs-3">
-              	<img  src="http://localhost:8080/creativenaqsh/wp-content/uploads/Artboard-–-1.png" class="hilton img-fluid "  alt="">
+              	<img  src="./img/clinents/Artboard – 2.png" class="hilton img-fluid "  alt="">
             </div>
             
 			<div class="clients-img col-md-3 col-sm-3 col-xs-3">
-				<img  src="http://localhost:8080/creativenaqsh/wp-content/uploads/Artboard-–-3.png" class="kinan img-fluid"  alt="">
+				<img  src="./img/clinents/Artboard – 1.png" class="kinan img-fluid"  alt="">
             </div>
             
             <div class="clients-img col-md-3 col-sm-3 col-xs-3">
-            	<img  src="http://localhost:8080/creativenaqsh/wp-content/uploads/Artboard-–-2.png" class="kau img-fluid "  alt="">
+            	<img  src="./img/clinents/Artboard – 2.png class="kau img-fluid "  alt="">
             </div>
           
 			<div class="clients-img col-md-3 col-sm-3 col-xs-3">
-              	<img  src="http://localhost:8080/creativenaqsh/wp-content/uploads/Artboard-–-1.png" class="hilton img-fluid "  alt="">
+              	<img  src="./img/clinents/Artboard – 3.png" class="hilton img-fluid "  alt="">
             </div>
 			</div><!-- End client-info-->
            </div><!-- End row -->
@@ -302,7 +304,7 @@
 							العنوان
 						</span>
 						<br>
-						<span class="txt2 text-right">.مبنى سادن شارع الأمير عبدالعزيز، حي الفيصلية
+						<span class="txt2 text-right">.مبنى لوريم إيبسوم، حي الهندسة
 						<br> جدة، المملكة العربية السعودية
 						</span>
 					</div>
@@ -319,7 +321,7 @@
 							اتصل بنا
 						</span>
 						<br>
-						<span class="txt2">+966 56 155 4054</span>
+						<span class="txt2">+966 555555555</span>
 					</div>
 				</div><!-- End lets talk -->
 				
@@ -335,7 +337,7 @@
 							للمساعدة و الاستفسار
 						</span>
 						<br>
-						<span class="txt2">info@creativenaqsh.com</span>
+						<span class="txt2">info@engeneering.com</span>
 					</div>
 				</div><!-- End email -->
 				
@@ -346,7 +348,7 @@
 
 <!--Start Google map-->
 <div id="map-responsive" class="map-responsive col-md-12 col-sm-12 col-xs-12" style="height:200px">
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14841.780620017946!2d39.1761357!3d21.5685402!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7f95d4a1056fbd86!2z2YbZgti0INin2YTYpdio2K_Yp9i5!5e0!3m2!1sen!2ssa!4v1557691102078!5m2!1sen!2ssa" width="400" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="#" width="400" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div><!--End Google Maps-->
 	<script src ="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
   	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCQKR41AqiPXn-2WfLS-giuXPLWpnFxLjk&callback=initMap"></script>
