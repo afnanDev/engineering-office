@@ -59,25 +59,25 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="view col-md-4 col-sm-4 col-xs-12">
-        <img class="d-block w-100" src="http://localhost:8080/creativenaqsh/wp-content/uploads/homew01-1.png" alt="First slide">
+        <img class="d-block w-100" src="./img/home/homew01.png" alt="First slide">
       </div>
 	  <div class="view col-md-4 col-sm-4 col-xs-12">
-        <img class="d-block w-100" src="http://localhost:8080/creativenaqsh/wp-content/uploads/homew02-1.jpg" alt="First slide">
+        <img class="d-block w-100" src="./img/home/homew02.png" alt="First slide">
       </div>
 	  <div class="view col-md-4 col-sm-4 col-xs-12">
-        <img class="d-block w-100" src="http://localhost:8080/creativenaqsh/wp-content/uploads/homew03-1.jpg" alt="First slide">
+        <img class="d-block w-100" src="./img/home/homew03.png" alt="First slide">
       </div>
     </div><!-- End carousel-item -->
 	  
 	<div class="carousel-item">
       <div class="view col-md-4 col-sm-4 col-xs-12">
-        <img class="d-block w-100" src="http://localhost:8080/creativenaqsh/wp-content/uploads/homew04-1.jpg" alt="second slide">
+        <img class="d-block w-100" src="./img/home/homew04.png" alt="second slide">
       </div>
 	  <div class="view col-md-4 col-sm-4 col-xs-12">
-        <img class="d-block w-100" src="http://localhost:8080/creativenaqsh/wp-content/uploads/homew05-1.jpg" alt="second slide">
+        <img class="d-block w-100" src="./img/home/homew05.png" alt="second slide">
       </div>
 	  <div class="view col-md-4 col-sm-4 col-xs-12">
-        <img class="d-block w-100" src="http://localhost:8080/creativenaqsh/wp-content/uploads/homew06-1.jpg" alt="second slide">
+        <img class="d-block w-100" src="./img/home/homew05.png" alt="second slide">
       </div>
     </div><!-- End carousel-item --> 
 	  
