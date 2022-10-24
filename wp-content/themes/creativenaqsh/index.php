@@ -9,7 +9,7 @@
 <div class="container-fluid">
 	<div class="row">
 	<a class="navbar-brand col-md-1 col-sm-1 col-xs-1" href="<?php bloginfo('url')?>">
-		<img class="img-fluid" src="http://localhost:8080/creativenaqsh/wp-content/uploads/logo-1.png"/>
+		<img class="img-fluid" src="http://localhost:8080/creativenaqsh/wp-content/img/logo.png"/>
 	</a> 
 		
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
